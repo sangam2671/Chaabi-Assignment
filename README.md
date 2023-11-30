@@ -1,4 +1,4 @@
-# Chaabhi-Assignment
+# Chaabi-Assignment
 step 1: First I read the files using pandas dataframe
 Step 2: Create Vector embeddings initially using Auto tokenizer and BERT but as soon as i go to Qdrant than changes it and using its own tokenizer
 from qdrant_client import models, QdrantClient
